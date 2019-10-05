@@ -1,0 +1,13 @@
+{
+    "name": "home_page",
+    "version": "1.0.0",
+    "private": true,
+    "devDependencies": {
+        "webpack-dashboard": "^3.2.0"
+    },
+    "dependencies": {
+        "antd": "^3.23.6",
+        "react": "^16.10.2",
+        "webpack": "^4.41.0"
+    }
+}
